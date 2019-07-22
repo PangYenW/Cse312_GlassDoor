@@ -27,7 +27,7 @@ Customer-initiated order procedure
 5. Employee sends the order to the factory
 6. Confirm the factory’s quote (algorithm or machine learning)
 7. Employee updates the delivery date once received from the factory
-  4-7. Can become automatic if we have the technical skills (god provides).
+4-7. Can become automatic if we have the technical skills (god provides).
 
 Employee-initiated order procedure
 1. Enter the specifications of product given by customers 
