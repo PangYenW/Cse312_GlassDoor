@@ -2,9 +2,9 @@
 
 define('PASSWORD', 'Ubstalkingcse442123456?');
 define('EMAIL', 'ubstalking@gmail.com');
-define('HOST', 'us-cdbr-iron-east-02.cleardb.net');
-define('USER', 'b462e5b33a358b');
-define('PASS', 'a8e61298');
-define('DB', 'heroku_219f56902066b0a');
+define('HOST', 'g3v9lgqa8h5nq05o.cbetxkdyhwsb.us-east-1.rds.amazonaws.com');
+define('USER', 'ck73gz3ovh15e2d4');
+define('PASS', 'nipet0b5dvchj94v');
+define('DB', 'v4oyfnhiyhaeaikb');
 define('ADMIN', 'admin@project.ed')
  ?>
