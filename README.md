@@ -1,9 +1,8 @@
 GlassDoor(Retailer Ecommerce)
 Group Project (Web Application Class) July 2019 - August 2019
 
-● Create a retailer ecommerce website we develop two kinds of users, customer and employee. We also have two different methods to
+● Create a retailer ecommerce website we develop two kinds of users, customer and employee. We also have two different methods to handle orders customer-initiated order and employee-initiated order.
 
-handle orders customer-initiated order and employee-initiated order.
 ● Usage of GitHub, Heroku to deploy the application online, XAMPP to run the application on local host.
 
 # Retailer Ecommerce
