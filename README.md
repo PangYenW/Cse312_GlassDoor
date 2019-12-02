@@ -1,3 +1,11 @@
+GlassDoor(Retailer Ecommerce)
+Group Project (Web Application Class) July 2019 - August 2019
+
+● Create a retailer ecommerce website we develop two kinds of users, customer and employee. We also have two different methods to
+
+handle orders customer-initiated order and employee-initiated order.
+● Usage of GitHub, Heroku to deploy the application online, XAMPP to run the application on local host.
+
 # Retailer Ecommerce
 
 Problem: Bing Bing’s mom is operating a small business for selling windows, glasses, and doors. The procedure is repetitive with lots of useless paperwork. Thus, we want to help and reduce the procedure.
